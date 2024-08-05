@@ -42,7 +42,7 @@ class NoobCode
 
     static void rr() throws Exception
     {
-        java.awt.Desktop.getDesktop().browse(new java.net.URI("http://tiny.cc/t4s7tz"));
+        java.awt.Desktop.getDesktop().browse(new java.net.URI("https://www.youtube.com/watch?v=dQw4w9WgXcQ"));
     }
 
     static void TM()
@@ -68,9 +68,9 @@ class NoobCode
         System.out.println("A/B");
         String cho=pu.next();
         cho=cho.toLowerCase();
-        if(cho.equals("A"))
+        if(cho.equals("a"))
             System.out.println("I don't CARE");
-        else if(cho.equals("B"))
+        else if(cho.equals("b"))
             System.out.println("..., bruh");
         else
         {
